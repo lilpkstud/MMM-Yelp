@@ -1,0 +1,12 @@
+{
+  "name": "MMM-Yelp",
+  "version": "1.0.0",
+  "description": "MagicMirror module to display yelp information.",
+  "main": "MMM-Yelp.js",
+  "author": "lilpkstud",
+  "license": "MIT",
+  "dependencies": {
+    "yelp-fusion": "^3.0.0"
+  },
+  "devDependencies": {}
+}
