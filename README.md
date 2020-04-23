@@ -1,5 +1,5 @@
 # MMM-Yelp
 MagicMirror module to display yelp information
 
-Open project with Visual Studio Code
-npm start
+Using MagicMirror -> MMM-Test for testing
+Npm start to run the test development
