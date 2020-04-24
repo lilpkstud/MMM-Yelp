@@ -7,9 +7,9 @@
 
 Module.register("MMM-Yelp", {
 	defaults: {
-		updateInterval: 600000,
+		updateInterval: 600000, //600,000 milliseconds is 10min
 		retryDelay: 50000,
-		apiKey: '',
+		apiKey: '', //Insert YelpFusion API Here
         term: 'Four Barrel Coffee',
         location: "San Francisco, CA",
 		debug: true, //Set to true to enable extending logging 
